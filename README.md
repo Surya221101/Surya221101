@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Surya221101
 - � I’m interested in backend jobs 
-- � I’m currently learning Data Science and python
 - 📫 How to reach me via email- suryarajcks@gmail.com
 
 <!---
